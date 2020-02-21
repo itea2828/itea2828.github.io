@@ -1,0 +1,105 @@
+body {
+    background: rgb(204,204,204); 
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.container {
+    padding-left: 0 !important;
+    float: left;
+}
+
+.header {
+    height: 20px;
+    width: 300px;
+    background-color: #777;
+}
+
+.footer {
+    height: 20px;
+    width: 250px;
+    background-color: #777;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13pt;
+    line-height: 14px;
+}
+
+.top {
+    width: 100mm;
+    height: 10mm;
+    position: absolute;
+    top: 0;
+    background: #777;
+    left: 10mm;
+}
+.bottom {
+    width: 70mm;
+    height: 10mm;
+    position: absolute;
+    bottom: 0;
+    background: #777;
+    left: 10mm;
+}
+
+
+.leftt{
+    width: 30%;
+    float: left;
+
+}
+.rightt {
+    width: 70%;
+    float: left;
+}
+
+
+
+.myi{
+    margin-top: 15mm;
+    width: 153px;
+    height: 204px;
+    margin-left: 15px;
+}
+.my-title {
+    font-family: 'Oswald', sans-serif !important;
+    margin-top: 15mm;
+    text-transform: uppercase;
+}
+.age{
+    text-transform: none;
+}
+.position{
+    font-weight: 300;
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 13px !important;
+    text-decoration: underline;
+    margin: 0mm 0 5mm 0;
+}
+p.back {
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 13px !important;
+    line-height: 10px !important;
+}
+
+
+
+.title-first {
+    font-family: 'Oswald', sans-serif !important;
+    margin-top: 10mm;
+    text-decoration: underline;
+    margin-bottom: 5mm;
+    font-size: 18pt;
+}
+
+.title {
+    font-family: 'Oswald', sans-serif !important;
+    text-decoration: underline;
+    margin-bottom: 5mm;
+    font-size: 18pt;
+}
+
+.time {
+    font-weight: 700;
+}
